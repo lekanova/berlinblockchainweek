@@ -4,16 +4,16 @@
 ###########
 # The title of the page, displayed by the browser on the title of the window.
 # Ideally this is the same as the name of the event.
-title: 'Web3 stack, what’s next for developers? @ConsenSys'
+title: 'Fluence, IPFS, NuCypher. Web3 stack @ConsenSys'
 # Description for this event. 
-description: Tech presentations + demos from Fluence, IPFS & NuCypher.
+description: iPFS, Fluence, NuCypher Tech presentations + demos.
 
 #####################
 ### EVENT DETAILS ###
 #####################
 # The name of the event you're creating.
 # Ideally this is the same as the title.
-name: 'Web3 stack, what’s next for developers? @ConsenSys'
+name: 'Fluence, IPFS, NuCypher. Web3 stack @ConsenSys'
 
 # There _needs_ to be one hyphen before each paragraph.
 # Linebreaks are ignored, but they _must_ start with two spaces.
@@ -23,7 +23,7 @@ name: 'Web3 stack, what’s next for developers? @ConsenSys'
 
 synopsis:
   - 
-    Tech presentations + demos from Fluence, IPFS & NuCypher.
+    Fluence, IPFS, NuCypher tech presentations + demos.
   - 
     Let’s get together to challenge the current limits of a decentralized world with a diversity of BUIDLing approaches. Join us for tech breakdowns on the latest developments across the decentralized stack solutions.
   - 
